@@ -36,3 +36,4 @@ https://aliciagorton.github.io/homeworksix/
 https://github.com/aliciagorton/homeworksix.git
 
 ### The following image demonstrates the application functionality:
+<img width="1598" alt="six" src="https://user-images.githubusercontent.com/66084311/89848141-a6b9c500-db3a-11ea-90be-99151379ab81.png">

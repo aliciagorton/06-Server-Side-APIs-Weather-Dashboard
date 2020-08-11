@@ -1,4 +1,4 @@
-function initPage() {
+function init() {
     const inputEl = document.getElementById("city-input");
     const searchEl = document.getElementById("search-button");
     const clearEl = document.getElementById("clear-history");
@@ -120,4 +120,4 @@ function initPage() {
     }
 
 }
-initPage();
+init();
